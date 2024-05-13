@@ -1,8 +1,5 @@
 <h1 align="center">Hola 👋  soy Jimmy Figueroa ✨ </h1> 
 
-<p align="left">
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="www.linkedin.com/in/jimmy-figueroa-blanco-25429017b" alt="unsimpledev"/></a>
-  </p>
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
