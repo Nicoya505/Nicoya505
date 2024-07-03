@@ -3,6 +3,10 @@
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
+<p align="left">
+Apasionado del código con un gran interés en desarrollo web. Tengo gran capacidad para adaptarme a todo tipo de entornos y aportar siempre lo mejor de mí. Me caracterizo por mi facilidad para el trabajo en equipo y mi entusiasmo por aprender y desarrollar mis habilidades. En busca de una oportunidad laboral en la que adquirir más experiencia.
+</p>
+<br> 
 
 <p align="left">
 🎓 Programador BackEnd
