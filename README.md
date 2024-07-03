@@ -5,9 +5,9 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 ESTUDIANTE DE ADMINISTRACION DE SISTEMAS INFORMATICOS EN RED
+🎓 Programador BackEnd
 
-📫 Contacto: **figueroablanco92@gmail.com**
+📫 Contacto: **jfalexblanco2018@gmail.com**
 <!--Intro end-->
   </p>
 <br>
