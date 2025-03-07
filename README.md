@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Jimmy Figueroa ✨ </h1> 
+<h1 align="center">Hola 👋  soy Jimmy Figueroa</h1> 
 
 <br>
 <h2>Sobre mi 😃</h2>
@@ -20,7 +20,7 @@ Apasionado del código con un gran interés en desarrollo web. Tengo gran capaci
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,php,py,css,html,js,mysql,sqlite,firebase,git,github,docker,postman,eclipse,vscode,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,mysql,sqlite,git,github,docker,postman,vscode,bash,linux,microservicios" />
   </a>
 </p>
 <br>
